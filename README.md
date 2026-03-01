@@ -37,7 +37,12 @@ EC2 Instances
   IMDSv2 required
 
 📸 Screenshots
-(Screenshots will be added in the next step)
+![Architecture](screenshots/01-architecture-diagram.png)
+![ALB](screenshots/02-alb-details.png)
+![Target Group](screenshots/03-target-group-health.png)
+![ASG](screenshots/04-asg-config.png)
+![EC2](screenshots/05-ec2-instance.png)
+![Browser Output](screenshots/06-browser-output.png)
 
 🧠 Architecture Design Principle
 Stateless compute tier behind load balancer
